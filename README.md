@@ -3,6 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-v0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
+![image](https://github.com/luohua13/Bluefairy/blob/master/IMG/R-C.png)
 > A fast,multi-cluster and lightweight framework for building Kubernetes controller 
 
 ## Features
