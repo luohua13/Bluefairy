@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T06:47:19.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="14.8.0" etag="Jhvmlq-Y3whQ8kJuOQgy" type="github"><diagram id="sZ1TYACncK4ttQp30QJz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T09:41:50.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="PPFrH69yKaZjPa0yYUZv" version="14.8.0" type="github">
+  <diagram id="sZ1TYACncK4ttQp30QJz" name="第 1 页">
+    <mxGraphModel dx="610" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-1" target="9lwF5AT8aQVpKyR2n3oe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-1" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #afbf7e&quot;&gt;cluster&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65.25" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-2" target="9lwF5AT8aQVpKyR2n3oe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-2" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;MicroServicetKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235.25" y="90" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-3" value="update microservice: ensure spec.clusters" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="455.25" y="80" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-4" target="9lwF5AT8aQVpKyR2n3oe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-4" target="9lwF5AT8aQVpKyR2n3oe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-4" target="9lwF5AT8aQVpKyR2n3oe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-4" target="9lwF5AT8aQVpKyR2n3oe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-4" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #afbf7e&quot;&gt;configmap&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-5" target="9lwF5AT8aQVpKyR2n3oe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-5" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;MicroServicetKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="380" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-6" target="9lwF5AT8aQVpKyR2n3oe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-6" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;NamespaceKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="490" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-7" value="1 create or update configmap data with microservice.swagger&lt;br&gt;2 ensure microservice.configmap" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-8" value="Ensure gateway auth configmap created in&amp;nbsp;&amp;nbsp;istio-system namespace&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="485" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-16" target="9lwF5AT8aQVpKyR2n3oe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-16" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #afbf7e&quot;&gt;secret&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-18" target="9lwF5AT8aQVpKyR2n3oe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-18" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;MicroServicetKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="180" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-19" value="update microservice: ensure spec.secrets" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="170" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-20" target="9lwF5AT8aQVpKyR2n3oe-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-20" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;RouteRuleKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="256.5" y="570" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-21" target="9lwF5AT8aQVpKyR2n3oe-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-21" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;AppConfigKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="640" width="152.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-24" value="Deprecated" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-27" target="9lwF5AT8aQVpKyR2n3oe-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-27" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #afbf7e&quot;&gt;rbac&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-28" target="9lwF5AT8aQVpKyR2n3oe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-28" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;NamespaceKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="720" width="152" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-29" value="Ensure role rolebindging clusterrolebinding are created&amp;nbsp; in&amp;nbsp; every namespace" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-33" target="9lwF5AT8aQVpKyR2n3oe-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-33" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #afbf7e&quot;&gt;service&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-35" target="9lwF5AT8aQVpKyR2n3oe-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-35" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;MicroServicetKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="280" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-36" value="update microservice: ensure spec.service" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="270" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-37" target="9lwF5AT8aQVpKyR2n3oe-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-37" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #afbf7e&quot;&gt;namespace&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9lwF5AT8aQVpKyR2n3oe-38" target="9lwF5AT8aQVpKyR2n3oe-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-38" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;menlo-regular&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;MicroServicetKind&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="830" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9lwF5AT8aQVpKyR2n3oe-39" value="enable sidecar in namespace of ms" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
